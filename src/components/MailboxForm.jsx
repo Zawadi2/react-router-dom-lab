@@ -35,7 +35,7 @@ const MailboxForm = ({ addMailbox }) => {
         </select>
       </label>
       <br />
-      <button type="submit">Create Mailbox</button>
+      <button type="submit">Submit</button>
     </form>
   );
 };
